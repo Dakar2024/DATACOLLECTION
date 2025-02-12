@@ -1,0 +1,6 @@
+streamlit 
+pandas
+bs4   
+matplotlib
+seaborn 
+requests
