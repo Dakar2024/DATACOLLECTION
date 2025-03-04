@@ -292,4 +292,4 @@ elif option == "Formulaire d'évaluation":
 
 # Footer
 st.markdown("---")
-st.markdown("© 2025 - Développé par Romelyane-corporation")
+st.markdown("© 2025 - Développé par Arthur-MANTSOUAKA")
